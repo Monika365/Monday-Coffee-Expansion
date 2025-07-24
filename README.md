@@ -1,5 +1,4 @@
-# Monday-Coffee-Expansion
-In this project we analyze sales and customer data using SQL to recommend the top 3 Indian cities for Monday Coffee’s first physical stores.
+
 # Monday Coffee Expansion SQL Project
 
 ![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
